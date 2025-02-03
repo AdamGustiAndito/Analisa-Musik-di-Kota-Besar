@@ -23,7 +23,7 @@ Proyek ini bertujuan untuk menguji tiga hipotesis yaitu:
 
 
 ## 📌 Teknologi yang Digunakan
-- **Python** (Pandas, Matplotlib)
+- **Python** (Pandas)
 - **Jupyter Notebook**
 
 ---
